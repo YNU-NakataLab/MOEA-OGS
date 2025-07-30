@@ -22,10 +22,10 @@
   title={{Oversampling-Guided Search for Evolutionary Multiobjective Optimization}},
   author={Kimoto, Norihito and Horaguchi, Yuma and Nakata, Masaya},
   booktitle={2024 IEEE Congress on Evolutionary Computation (CEC)},
-  pages={},
-  month={},
+  pages={1--8},
+  month={Jluy},
   year={2024},
-  publisher={IEEE}
-  doi={}
+  publisher={IEEE},
+  doi={10.1109/CEC60901.2024.10612066}
 }
 ```
